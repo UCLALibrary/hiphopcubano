@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Work+Sans:900");
 @import url("font-awesome.min.css");
 
 /*
@@ -1555,7 +1555,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 300;
 	}
 
@@ -1573,7 +1573,7 @@
 	input, textarea, select {
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 300;
 	}
 
@@ -1587,14 +1587,17 @@
 		color: inherit;
 		text-decoration: none;
 		border-bottom-color: transparent;
+		font-family: 'Work Sans', sans-serif;
+		font-size: larger;
 	}
 
 	h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 		font-weight: 600;
+		font-family: 'Work Sans', sans-serif;
 	}
 
 	h2 {
-		font-size: 2.5em;
+		font-size: 2em;
 	}
 
 	h3 {
@@ -2131,7 +2134,7 @@
 		}
 
 			#header header > p {
-				font-size: 1.25em;
+				font-size: 2.3em;
 				margin: 0;
 			}
 
@@ -2182,7 +2185,7 @@
 
 		body.homepage #header:after {
 			content: '';
-			background: #bc351e;
+			background: #bc3b10;
 			display: block;
 			position: absolute;
 			left: 0;
